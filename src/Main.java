@@ -1,3 +1,12 @@
+//class Day2 {
+//    public static void main(String[] args){
+//        System.out.println("*");
+//        System.out.println("**");
+//        System.out.println("***");
+//        System.out.print("****");
+//    }
+//}
+
 //class Day2{
 //    public static void main(String[] args){
 //        int a = 2;
@@ -25,11 +34,74 @@
 //    }
 //}
 
-class Day2{
-    public static void main(String[] args){
-        int a = 8;
-        int b = 2;
-        int div = a/b;
-        System.out.println(div);
-    }
-}
+//class Day2{
+//    public static void main(String[] args){
+//        int a = 8;
+//        int b = 2;
+//        int div = a/b;
+//        System.out.println(div);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        String name = sc.next();
+//        System.out.println(name);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        String name = sc.nextLine();
+//        System.out.println(name);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        int a = sc.nextInt();
+//        int b = sc.nextInt();
+//        int sum = a + b;
+//        System.out.println(sum);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        int a = sc.nextInt();
+//        int b = sc.nextInt();
+//        int diff = a - b;
+//        System.out.println(diff);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        int a = sc.nextInt();
+//        int b = sc.nextInt();
+//        int mul = a * b;
+//        System.out.println(mul);
+//    }
+//}
+
+//import java.util.Scanner;
+//class UserInput{
+//    public static void main(String[] args){
+//        Scanner sc = new Scanner(System.in);
+//        int a = sc.nextInt();
+//        int b = sc.nextInt();
+//        int div = a / b;
+//        System.out.println(div);
+//    }
+//}
+
